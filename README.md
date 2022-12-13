@@ -8,7 +8,7 @@
 - CSS
 - JAVASCRIPT 
 
->(https://github.com/isTHS/Calculo-de-IMC/)
+>(https://isths.github.io/Calculo-de-IMC/)
 
 
 
