@@ -1,6 +1,6 @@
 ## Refatorando Código
 
-- Códigos refeitos em por mim em um curso da Udemy!
+- Códigos refeitos por mim em um curso de JavaScript da Udemy!
 
 ## TECNOLOGIAS USADAS
 
